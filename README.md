@@ -6,8 +6,5 @@ As a Data Science expert at Amdari Inc. UK, I interprete large and complex intel
 
 #### ** Data Analyst consultant. **
 Provide technical and analytical support across all phases of IT integration for data-driven projects.
-
-
-#### ** Data Science service. **
- 
+#### ** Data Science service. ** 
 Evaluating model accuracy and algorithmic performance during acceptance testing and production deployment.
