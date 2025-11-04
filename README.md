@@ -10,3 +10,5 @@ Hi I am Bright, a Data Scientist with passion in harnessing the power of AI, mac
 Provide technical and analytical support across all phases of IT integration for data-driven projects.
 ####  Data Science service. 
 Evaluating model accuracy and algorithmic performance during acceptance testing and production deployment.
+
+## MY PROJECTS
